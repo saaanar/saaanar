@@ -4,6 +4,12 @@ body {
 
 }
 
+p {
+	color: white;
+}
+
+
+
 .yhteystiedot {
 	border: 3px solid black; 
 	padding: 15px;
