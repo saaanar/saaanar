@@ -1,0 +1,9 @@
+body {
+	background-image: url('taustakuva.png');
+    background-size: cover;
+	
+p {
+text-shadow: 10px 10px solid black;
+font-size: 34px;
+font-weight: bold;
+}
